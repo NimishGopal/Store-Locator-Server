@@ -1,0 +1,13 @@
+{
+	"categories": [
+		{
+			"name": "grocery"
+		},
+		{
+			"name": "household"
+		},
+		{
+			"name": "medical"
+		}
+	]
+}

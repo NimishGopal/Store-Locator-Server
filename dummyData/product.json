@@ -1,0 +1,14 @@
+{
+	"products": [{
+		"id": 1,
+		"rating": 4.2,
+		"category": "grocery",
+		"storeID": "G01",
+		"name": "aata",
+		"unit": 31,
+		"price": 20,
+		"discount": 5,
+		"image": "",
+		"isAvailable": true
+	}]
+}

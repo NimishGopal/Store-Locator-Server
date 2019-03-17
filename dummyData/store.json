@@ -1,0 +1,75 @@
+{
+	"stores": [{
+            "storeID": "G01",
+            "category": "grocery",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		},
+		{
+            "storeID": "G02",
+            "category": "grocery",
+			"coordinates": {
+				"lat": 47,
+				"lng": -3
+			}
+		},
+		{
+            "storeID": "G03",
+            "category": "grocery",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		},
+		{
+            "storeID": "H01",
+            "category": "household",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		},
+		{
+            "storeID": "H02",
+            "category": "household",
+			"coordinates": {
+				"lat": 47,
+				"lng": -3
+			}
+		},
+		{
+            "storeID": "H03",
+            "category": "household",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		},
+		{
+            "storeID": "M01",
+            "category": "mdeical",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		},
+		{
+            "storeID": "M02",
+            "category": "mdeical",
+			"coordinates": {
+				"lat": 47,
+				"lng": -3
+			}
+		},
+		{
+            "storeID": "M03",
+            "category": "mdeical",
+			"coordinates": {
+				"lat": 46,
+				"lng": -2
+			}
+		}
+	]
+}
