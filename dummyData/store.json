@@ -1,75 +1,121 @@
-{
-	"stores": [{
-            "storeID": "G01",
-            "category": "grocery",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
+[
+	{
+		"category": "medical",
+		"markers": [
+			{
+				"position": {
+					"lat": 12.8615658,
+					"lng": 77.6559533
+				},
+				"title": "Apollo Pharmacy",
+				"storeID": "M01"
+			},
+			{
+				"position": {
+					"lat": 12.8615658,
+					"lng": 77.6559533
+				},
+				"title": "GURU SAI RAM MEDICAL &GENERAL STORES",
+				"storeID": "M02"
+			},
+			{
+				"position": {
+					"lat": 12.8620133,
+					"lng": 77.657851
+				},
+				"title": "Good Health Pharma",
+				"storeID": "M03"
+			},
+			{
+				"position": {
+					"lat": 12.8670133,
+					"lng": 77.662151
+				},
+				"title": "MedPlus",
+				"storeID": "M04"
+			},
+			{
+				"position": {
+					"lat": 12.8653133,
+					"lng": 77.663251
+				},
+				"title": "E City Medicals And General Stores",
+				"storeID": "M05"
 			}
-		},
-		{
-            "storeID": "G02",
-            "category": "grocery",
-			"coordinates": {
-				"lat": 47,
-				"lng": -3
+		]
+	},
+	{
+		"category": "grocery",
+		"markers": [
+			{
+				"position": {
+					"lat": 12.8614827,
+					"lng": 77.6559533
+				},
+				"title": "sri sri gajaraja stores",
+				"storeID": "G01"
+			},
+			{
+				"position": {
+					"lat": 12.8614827,
+					"lng": 77.6559533
+				},
+				"title": "Janapriya Home Needs",
+				"storeID": "G02"
+			},
+			{
+				"position": {
+					"lat": 12.8590133,
+					"lng": 77.665851
+				},
+				"title": "Sri Mahalakshmi Traders",
+				"storeID": "G03"
+			},
+			{
+				"position": {
+					"lat": 12.8620133,
+					"lng": 77.660851
+				},
+				"title": "Bhavani Provision Stores",
+				"storeID": "G04"
+			},
+			{
+				"position": {
+					"lat": 12.8640133,
+					"lng": 77.669851
+				},
+				"title": "Anna Poorneshwari Provision Store",
+				"storeID": "G05"
 			}
-		},
-		{
-            "storeID": "G03",
-            "category": "grocery",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
-			}
-		},
-		{
-            "storeID": "H01",
-            "category": "household",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
-			}
-		},
-		{
-            "storeID": "H02",
-            "category": "household",
-			"coordinates": {
-				"lat": 47,
-				"lng": -3
-			}
-		},
-		{
-            "storeID": "H03",
-            "category": "household",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
-			}
-		},
-		{
-            "storeID": "M01",
-            "category": "mdeical",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
-			}
-		},
-		{
-            "storeID": "M02",
-            "category": "mdeical",
-			"coordinates": {
-				"lat": 47,
-				"lng": -3
-			}
-		},
-		{
-            "storeID": "M03",
-            "category": "mdeical",
-			"coordinates": {
-				"lat": 46,
-				"lng": -2
-			}
-		}
-	]
-}
+		]
+	},
+	{
+        "category": "household",
+        "markers": [
+            {
+                "position": {
+                    "lat": 12.8660133,
+                    "lng": 77.663851
+                },
+                "title": "E-city provision store",
+                "storeID": "H01"
+            },
+            {
+                "position": {
+                    "lat": 12.8650133,
+                    "lng": 77.665851
+                },
+                "title": "Swaraj Supermarket",
+                "storeID": "H02"
+            },
+            {
+                "position": {
+                    "lat": 12.8670133,
+                    "lng": 77.662851
+                },
+                "title": "kailash provision store",
+                "storeID": "H03"
+            }
+        ]
+    }
+]
